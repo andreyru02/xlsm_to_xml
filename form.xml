@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.76" name="urn:schemas-microsoft-com:office:infopath:OlimpCourse:-myXSD-2005-09-12T06-50-44" productVersion="15.0.0" PIVersion="1.0.0.0" ?><?mso-application progid="InfoPath.Document"?><my:field xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2005-09-12T06:50:44" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="ru">
+	<my:group></my:group>
+	<my:curs></my:curs>
+	<my:temicursov>
+		<my:temacursa>
+			<my:tktext></my:tktext>
+			<my:questions>
+				<my:question>
+					<my:qtext><div style="FONT-FAMILY: Microsoft Sans Serif" align="center" xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><strong><font face="Calibri">Вопрос1</font></strong></div></my:qtext>
+					<my:answer>
+						<my:astatus>Правильный ответ</my:astatus>
+						<my:atext>Ответ1</my:atext>
+					</my:answer>
+					<my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>Ответ2</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>Ответ3</my:atext>
+								</my:answer><my:answer>
+									<my:astatus>Неправильный ответ</my:astatus>
+									<my:atext>Ответ4</my:atext>
+								</my:answer><my:qhelp></my:qhelp>
+				</my:question>
+			</my:questions>
+			<my:tkabout></my:tkabout>
+			<my:materials>
+				<my:material>
+					<my:name></my:name>
+					<my:filename></my:filename>
+				</my:material>
+			</my:materials>
+			<my:extensions>
+				<my:extension>
+					<my:DisplayName></my:DisplayName>
+					<my:LinkAddress></my:LinkAddress>
+				</my:extension>
+			</my:extensions>
+		</my:temacursa>
+	</my:temicursov>
+</my:field>
